@@ -49,12 +49,12 @@ posts = [
 
 
 @app.route("/")
-@app.route("/home/")
+@app.route("/about/")
 def home():
     return render_template("index.html", posts=posts)
 
 
-@app.route("/about/")
+@app.route("/home/")
 def about():
     return render_template("about.html", title="about")
 
