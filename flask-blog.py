@@ -45,6 +45,12 @@ posts = [
         "content": "Never used stack, but honestly looks way better then this.",
         "date_posted": "March 22, 2020",
     },
+     {
+        "author": "Samir Malick",
+        "title": "Cheesecake",
+        "content": "I like cake and cheese. used stack, but honestly looks way better then this.",
+        "date_posted": "March 22, 2020",
+    }
 ]
 
 
